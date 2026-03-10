@@ -7,10 +7,8 @@ st.title("Meine erste Streamlit App")
 """
 Diese App wurde von folgenden Personen entwickelt:
 - Ana Gomes (gomesana@zhaw.ch)
-<<<<<<< HEAD
 - Giada De Luca (delugia@zhaw.ch)
 - Priscilla Baccaro (baccapri@zhaw.ch)
-=======
 
 Diese App ist das leere Gerüst für die App-Entwicklung im Modul Informatik 2 (BMLD/ZHAW)
 
