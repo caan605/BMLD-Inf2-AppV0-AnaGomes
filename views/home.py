@@ -11,8 +11,6 @@ Diese App wurde von folgenden Personen entwickelt:
 - Giada De Luca (delugia@zhaw.ch)
 - Priscilla Baccaro (baccapri@zhaw.ch)
 =======
-- Peter Meier (peme@zhaw.ch)
->>>>>>> 29cf549997b35e86c8531172064716ce5c0bb725
 
 Diese App ist das leere Gerüst für die App-Entwicklung im Modul Informatik 2 (BMLD/ZHAW)
 
